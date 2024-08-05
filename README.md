@@ -1,7 +1,7 @@
 ## 小鹿的横板简历
 Figma文件与字体已在仓库整理完毕👋  
 Figma在线地址：https://www.figma.com/@b0f741c2_4482_4  
-字体开源地址：https://zhuanlan.zhihu.com/p/637491623
+字体开源地址：https://zhuanlan.zhihu.com/p/637491623  
 喜欢可以点个Star⭐
 
 ### 关于简历的思考
